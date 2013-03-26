@@ -28,6 +28,17 @@ const guestbookTemplateHTML = `
       <div><textarea name="content" rows="3" cols="60"></textarea></div>
       <div><input type="submit" value="Sign Guestbook"></div>
     </form>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-6722923021345262";
+/* sample */
+google_ad_slot = "7366834398";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
   </body>
 </html>
 `
